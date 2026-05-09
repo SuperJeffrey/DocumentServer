@@ -10,7 +10,7 @@ ONLYOFFICE Docs is available in three tailored editions to suit your needs: [Com
 
 \* Starting from version 6.0, Document Server is distributed under a new name - ONLYOFFICE Docs.
 
-![ONLYOFFICE Docs](./screenshots/ONLYOFFICE%20Docs.png)
+![GT](./screenshots/GT.svg)
 
 ## Features you'll love ✨
 
@@ -73,7 +73,7 @@ The table below will help you to make the right choice.
 | ------------- | ------------- | ------------- | ------------- |
 | | [Get it now](https://www.onlyoffice.com/download-community.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS#docs-community)  | [Start Free Trial](https://www.onlyoffice.com/download.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS#docs-enterprise)  | [Start Free Trial](https://www.onlyoffice.com/download-developer.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS#docs-developer)  |
 | Cost  | FREE  | [Go to the pricing page](https://www.onlyoffice.com/docs-enterprise-prices.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS)  | [Go to the pricing page](https://www.onlyoffice.com/developer-edition-prices.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS)  |
-| Simultaneous connections | up to 20 maximum  | As in chosen pricing plan | As in chosen pricing plan |
+| Simultaneous connections | As server resources allow | As in chosen pricing plan | As in chosen pricing plan |
 | Number of users | up to 20 recommended | As in chosen pricing plan | As in chosen pricing plan |
 | Clusterization | - | + | + |
 | License | GNU AGPL v.3 | Proprietary | Proprietary |
